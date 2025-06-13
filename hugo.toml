@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Beep Iams'
+theme = "ia-writer-style"
+publishDir = "docs"

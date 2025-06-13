@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <script>
+document.querySelectorAll('td').forEach(td => {
+  if (td.textContent.trim() === '{ .experience-table }') {
+    td.style.display = 'none';
+  }
+});
+</script>
+{{ end }}
