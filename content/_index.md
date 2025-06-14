@@ -1,4 +1,8 @@
-> Beep Iams   
+# Beep Iams   
+
+Contact
+|:--|:--|:--|
+[ Linkedin](www.linkedin.com/in/beepiams) | [ Github ](https://github.com/bpms-hub) | [ Email ](mailto:beepiams@gmail.com)
 
 
 Profile 
@@ -23,9 +27,8 @@ Experience
 | 2007-2008 | Flash Developer | ROKKAN |
 | 2002-2005 | BA New Media | Emerson College |
 { .experience-table }
-Linkedin / Github 
 
 
-
-> Music on
-| Apple | Spotify | Bandcamp 
+![Logo](img/bpms_128.svg)
+| [ Apple](https://music.apple.com/us/artist/bpms/1479806898)  | [ Bandcamp ](https://bpms.bandcamp.com) | Spotify |
+|:--|:--|:--|

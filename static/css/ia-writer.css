@@ -125,3 +125,9 @@ td:contains('{ .experience-table }') {
   display: none !important;
 }
 
+/* Make markdown links a shade darker than white */
+a {
+  color: #eaeaea;
+  text-decoration: underline;
+}
+
