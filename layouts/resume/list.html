@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <p><a href="/">← Back to Homepage</a></p>
+  {{ .Content }}
+
+  <script>
+    // Hide any element that contains only "{ .experience-table }"
+    document.querySelectorAll('td, tr, p, div').forEach(el => {
+      if (el.textContent.trim() === '{ .experience-table }') {
+        el.style.display = 'none';
+      }
+    });
+  </script>
+{{ end }}

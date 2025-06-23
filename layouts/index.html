@@ -1,11 +1,13 @@
 {{ define "main" }}
-  {{ .Content }}
-
-  <script>
-document.querySelectorAll('td').forEach(td => {
-  if (td.textContent.trim() === '{ .experience-table }') {
-    td.style.display = 'none';
-  }
-});
-</script>
+  <h1>Beep Iams</h1>
+  <p><a href="/resume/">Resume</a></p>
+  {{ range (where .Site.RegularPages "Section" "blog") }}
+    <article style="margin-bottom: 3em;">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p style="color:#aaa; font-size:0.9em;">{{ .Date.Format "2006-01-02" }}</p>
+      <div>
+        {{ .Content }}
+      </div>
+    </article>
+  {{ end }}
 {{ end }}

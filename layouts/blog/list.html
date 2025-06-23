@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1>Blog</h1>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span style="color:#aaa; font-size:0.9em;">{{ .Date.Format "2006-01-02" }}</span>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+<style>
+  /* Hide any table cell that literally contains '{ .experience-table }' */
+  td:contains('{ .experience-table }') {
+    display: none !important;
+  }
+</style>

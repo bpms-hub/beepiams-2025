@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p style="color:#aaa; font-size:0.9em;">{{ .Date.Format "2006-01-02" }}</p>
+  <div>
+    {{ .Content }}
+  </div>
+  <p>
+    <a href="https://medium.com/new-story" target="_blank" rel="noopener">Post on Medium</a> |
+    <a href="https://substack.com/new" target="_blank" rel="noopener">Post on Substack</a>
+  </p>
+  <p><a href="/">← Back to Blog</a></p>
+{{ end }}

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ .Title }}</title>
-  <link rel="stylesheet" href="css/ia-writer.css">
+  <link rel="stylesheet" href="{{ "css/ia-writer.css" | relURL }}">
 </head>
 <body>
   {{ block "main" . }}{{ end }}

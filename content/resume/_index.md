@@ -29,6 +29,6 @@ Experience
 { .experience-table }
 
 
-![Logo](img/bpms_128.svg)
+![Logo](../img/bpms_128.svg)
 | [ Apple](https://music.apple.com/us/artist/bpms/1479806898)  | [ Bandcamp ](https://bpms.bandcamp.com) | Spotify |
 |:--|:--|:--|
