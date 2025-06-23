@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://beepiams.com/'
 languageCode = 'en-us'
 title = 'Beep Iams'
 theme = "ia-writer-style"

@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://beepiams.com/blog/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://beepiams.com/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/my-first-post/</loc>
+    <loc>https://beepiams.com/blog/my-first-post/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/resume/</loc>
+    <loc>https://beepiams.com/resume/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://beepiams.com/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://beepiams.com/tags/</loc>
   </url>
 </urlset>
