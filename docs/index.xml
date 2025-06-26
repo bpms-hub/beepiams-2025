@@ -6,8 +6,15 @@
     <description>Recent content on Beep Iams</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://beepiams.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackathons. 10 years later.</title>
+      <link>https://beepiams.com/blog/062325-hackathons/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://beepiams.com/blog/062325-hackathons/</guid>
+      <description>&lt;p&gt;I thought hackathons were over.&lt;/p&gt;&#xA;&lt;p&gt;In 2015, as a creative developer at Audible/Amazon, my team of six won a nationwide hackathon. We created a web app player for Audible using Facebook/Meta’s React, a new technology at the time. We quickly prototyped and built a production model within 72 hours.&lt;/p&gt;&#xA;&lt;p&gt;We also created “plugins” within the web app. Obsessed with the Philips Hue/Zigby SDK, I created an applet that synced children’s storybooks to the lighting system. After a day of research, testing, and debugging, I had a working model. Whenever a color or nature reference was mentioned, the lights shifted gradients and brightness to visualize the story in the user’s room.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Let the conversation begin.</title>
       <link>https://beepiams.com/blog/my-first-post/</link>
