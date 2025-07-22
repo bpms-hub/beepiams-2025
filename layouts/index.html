@@ -1,13 +1,12 @@
 {{ define "main" }}
-  <h1>Beep Iams</h1>
-  <p><a href="/resume/">Resume</a></p>
-  {{ range (where .Site.RegularPages "Section" "blog") }}
-    <article style="margin-bottom: 3em;">
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <p style="color:#aaa; font-size:0.9em;">{{ .Date.Format "2006-01-02" }}</p>
-      <div>
-        {{ .Content }}
-      </div>
-    </article>
-  {{ end }}
+  {{ .Content }}
+  <p><a href="/blog/">View Blog</a></p>
+  <script>
+    // Hide any element that contains only "{ .experience-table }"
+    document.querySelectorAll('td, tr, p, div').forEach(el => {
+      if (el.textContent.trim() === '{ .experience-table }') {
+        el.style.display = 'none';
+      }
+    });
+  </script>
 {{ end }}
