@@ -1,4 +1,4 @@
 ---
-url: /blog/
+title: "Blog"
+draft: false
 ---
-
