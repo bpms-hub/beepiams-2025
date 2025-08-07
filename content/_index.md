@@ -7,10 +7,10 @@ Contact
 Profile
 | Product | Code | Baking |
 |:--|:--|:--|
-| Context Engineering | Agent Development | Breads
-Strategy | SSG & CI/CD workflows | Pastry
-| Systems Research | API & Data Integration | Prep |
-| | Headless CMS | Operations |
+| Strategy| Agent / Context Engineering | Breads
+Systems Research | SSG & CI / CD workflows | Pastry
+| UX / UI | API & Data Integration | Prep |
+| Motion & Design | Headless CMS | Operations |
 
 Experience
 
