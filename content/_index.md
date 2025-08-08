@@ -18,7 +18,6 @@ Experience
 | :-------- | :--------------------------------------- | :---------------------------------------------------------------- |
 | 2025-     | AI Agent Bootcamp Member                 | Lonely Octopus                                                    |
 |           |                                          |                                                                   |
-| 2025-2025 | Baker                                    | GetRight’s                                                        |
 | 2021-2025 | Baker & Wholesale Operations             | C&B                                                               |
 |           |                                          |                                                                   |
 | 2015-2024 | Black Belt - Josh Griffiths              | Clockwork Jiu-Jitsu                                               |
